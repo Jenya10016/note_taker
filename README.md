@@ -21,7 +21,7 @@ Note Taker that can be used to write, save and delete notes.
 Add note title
 Add note text<br>
 THEN click disk image to save<br>
-TO DELETE NOTE click track icon
+TO DELETE note click trash icon
 
 ![time](note1.png)
 
